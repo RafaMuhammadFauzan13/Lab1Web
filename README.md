@@ -3,6 +3,8 @@
 | | |
 |---|---|
 | **Nama** | Rafa Muhammad Fauzan |
+| **NIM** | 312510277 |
+| **KELAS** | I251C |
 | **Program Studi** | Teknik Informatika |
 | **Mata Kuliah** | Pemrograman Web |
 | **Topik** | Dasar-dasar HTML |
@@ -303,7 +305,7 @@ git init
 git add .
 git commit -m "Praktikum 1: HTML dasar dan profil mahasiswa"
 git branch -M main
-git remote add origin https://github.com/USERNAME/Lab1Web.git
+git remote add origin https://github.com/RafaMuhammadFauzan13/Lab1Web.git
 git push -u origin main
 ```
 
@@ -328,7 +330,7 @@ git push -u origin main
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/USERNAME/Lab1Web.git
+   git clone https://github.com/RafaMuhammadFauzan13/Lab1Web.git
    ```
 2. Buka folder `Lab1Web`.
 3. Buka berkas `index.html` dengan browser (klik dua kali atau klik kanan lalu *Open with*).
